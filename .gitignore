@@ -3,5 +3,5 @@ data/
 *.db
 *.db-wal
 *.db-shm
-.env
 npm-debug.log
+config.bat
